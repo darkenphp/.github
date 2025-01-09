@@ -1,8 +1,10 @@
+```
  ____             _              
 |  _ \  __ _ _ __| | _____ _ __  
 | | | |/ _` | '__| |/ / _ \ '_ \ 
 | |_| | (_| | |  |   <  __/ | | |
 |____/ \__,_|_|  |_|\_\___|_| |_|
+```
 
 A PHP framework with a twist—think Nuxt.js and Astro had a PHP baby, but without the node_modules drama, npm meltdowns. Composer? We’re cool with that; it’s the classy uncle we all respect. We’ve got components with slots (because who doesn’t love a good slot?), and every method, property, and class is IDE auto-completion-friendly—no guessing games here!
 
